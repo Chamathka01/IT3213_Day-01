@@ -38,11 +38,11 @@ To view the designs created in Axure RP 9:
 2. Open the `.rp` files containing the project designs.
 3. Explore the design elements and layout within Axure RP 9.
 
-## Screenshots
-### 1. **Login Page Design Screenshot**
+## Outputs
+### 1. **Login Page Design**
 ![Login Page](./Screenshot01.png)
 
-### 2. **Fitness Homepage Design Screenshot**
+### 2. **Fitness Homepage Design**
 ![Fitness Homepage](./Screenshot02.png)
 
 ## Conclusion
